@@ -1,0 +1,42 @@
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.exe.config
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.pdb
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.Form1.resources
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.pdb
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.Form1.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.Form1.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache

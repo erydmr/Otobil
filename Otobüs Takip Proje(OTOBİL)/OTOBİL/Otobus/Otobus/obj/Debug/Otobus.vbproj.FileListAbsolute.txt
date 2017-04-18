@@ -1,0 +1,355 @@
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.exe.config
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.pdb
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\bin\Debug\Otobus.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.Form1.resources
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.exe
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.xml
+c:\users\oğuzhan\documents\visual studio 2015\Projects\Otobus\Otobus\obj\Debug\Otobus.pdb
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.Form1.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Google Drive\Görsel\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\ClassLibraryOtobus.dll
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\ClassLibraryOtobus.pdb
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\ClassLibraryOtobus.xml
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_3\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Eray\Desktop\Otobus_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\aykut\Desktop\Otobus_son_son\Otobus\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Eray\Desktop\Otobus_4\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Raiwulf\Desktop\Otobus new\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\Otobus_26_12_16_1500\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\1.1.17 OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusNerede.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusNerede.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus_26_12_16_1500\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\bin\Debug\MySql.Data.dll
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusNerede.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\OĞUZHAN\Desktop\SON OTOBİL\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusNerede.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Bektas\Downloads\Compressed\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe.config
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.exe
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.pdb
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\OtobusBiletTakip.xml
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\bin\Debug\MySql.Data.xml
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.vbprojResolveAssemblyReference.cache
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusNerede.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SeferEkle.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusEkle.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.GecisForm.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Login.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Resources.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.OtobusGuncellestir.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.Sefer.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SeferGuncellestir.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.SplashScreen1.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.UyeEkle.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.UyeGuncellestir.resources
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\Otobus.vbproj.GenerateResource.Cache
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.exe
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.xml
+C:\Users\Bektas\Desktop\Otob_s Takip Proje(OTOB_L)\Otobüs Takip Proje(OTOBİL)\OTOBİL\Otobus\Otobus\obj\Debug\OtobusBiletTakip.pdb
